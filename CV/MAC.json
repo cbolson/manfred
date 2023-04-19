@@ -35,6 +35,27 @@
     "jobs": [
       {
         "organization": {
+          "name": "cbolson.com",
+          "image": {
+            "alt": "logo-cbolson.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/19/87191320-4c49-44bb-8f17-74d81595ed56_logo-cbolson.png"
+          },
+          "URL": "https://www.cbolson.com"
+        },
+        "roles": [
+          {
+            "name": "Freelance web development",
+            "startDate": "2002-07-01",
+            "challenges": [
+              {
+                "description": "I have been working as a freelance web developer since 2002.\nOver the years, I have worked on many projects and created countless websites.\nIn the early 2000s I created my own custom-built CMS which I used for many years as a basis for my client sites."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Metrored"
         },
         "roles": [
