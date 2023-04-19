@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Málaga",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Málaga"
       }
     },
     "relevantLinks": [
@@ -32,15 +31,35 @@
       }
     ]
   },
+  "experience": {
+    "projects": [
+      {
+        "details": {
+          "name": "Ajax Availabillty Calendar",
+          "description": "The AjaxAvailabiltyCalendar is a calendar script complete with back-end administration that I created in 2009 and still maintain and work on as a hobby project.\n\nIt was developed using PHP, MySQL & JavaScript\nUses AJAX to ensure that maintaining the calendar through its\nbuilt-in admin panel is as simple as possible.\nDownloaded over 90,000 times since its release.\n\nI am currently working on a new version to convert it into a web component using ES6, PHP y CSS3. Eventually, my plan is to move the backend from PHP to JavaScript.\n",
+          "URL": "https://www.ajaxavailabilitycalendar.com",
+          "image": {
+            "alt": "logo-version-4.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/19/8b732863-55f8-4742-bcfc-aaf7a09cd252_logo-version-4.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2008-06-01"
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Native or bilingual proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -138,7 +157,6 @@
         "Frontend Developer",
         "Full-stack Developer"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
