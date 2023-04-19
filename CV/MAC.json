@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Málaga"
+        "municipality": "Málaga",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -117,37 +118,15 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Sass",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": "Git",
@@ -156,7 +135,7 @@
       },
       {
         "skill": {
-          "name": "jQuery",
+          "name": "CSS",
           "type": "technology"
         }
       },
@@ -171,6 +150,30 @@
           "name": "MySQL",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
       }
     ]
   },
@@ -180,6 +183,10 @@
         {
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/chrisbolson/"
+        },
+        {
+          "type": "other",
+          "URL": "https://github.com/cbolson"
         }
       ]
     },
@@ -218,6 +225,7 @@
         "Frontend Developer",
         "Full-stack Developer"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
