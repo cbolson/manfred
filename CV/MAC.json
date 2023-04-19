@@ -32,6 +32,25 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Metrored"
+        },
+        "roles": [
+          {
+            "name": "Web Designer",
+            "startDate": "2000-07-01",
+            "finishDate": "2002-06-01",
+            "challenges": [
+              {
+                "description": "Web designer using HTML, CSS and Flash"
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {
