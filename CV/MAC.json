@@ -35,6 +35,27 @@
     "jobs": [
       {
         "organization": {
+          "name": "Gabinohome SL",
+          "image": {
+            "alt": "logo_300.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/19/39d3f848-8541-4c53-a2c2-ff8716b8aaec_logo_300.png"
+          },
+          "URL": "https://www.gabinohome.com"
+        },
+        "roles": [
+          {
+            "name": "Full stack developer",
+            "startDate": "2004-07-01",
+            "challenges": [
+              {
+                "description": "Gabinohome is a classifieds website dedicated to the property rental market. It is currently available in more than 40 countries and in 16 languages.\n\n- Designed and developed the frontend code with HTML, CSS & JavaScript, including use of the jQuery library.\n- Backend developed in PHP.\n- Designed and maintain the MySQL database with over 34,000,000 rows of data.\n- Incorporate data from external APIs for both data and functionality such as ID verification.\n- Optimised the site for SEO and page load times, reaching near 100% in all categories of Web Vitales in the majority of the pages.\n- Created a custom ticket system to allow a simple and agile development process.\n- Created an en extensive back-office to administer the data, statistics and web content.\n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "cbolson.com",
           "image": {
             "alt": "logo-cbolson.png",
