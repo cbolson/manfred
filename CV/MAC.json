@@ -114,7 +114,19 @@
           "type": "technology"
         },
         {
+          "name": "MySQL",
+          "type": "technology"
+        },
+        {
           "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
           "type": "technology"
         }
       ],
