@@ -133,25 +133,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Sass",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -163,19 +145,37 @@
       },
       {
         "skill": {
-          "name": "jQuery",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "HTML",
           "type": "technology"
         }
       },
       {
         "skill": {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
           "type": "technology"
         }
       }
@@ -227,5 +227,29 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "HTML",
+        "type": "technology"
+      },
+      {
+        "name": "PHP",
+        "type": "technology"
+      },
+      {
+        "name": "MySQL",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "CSS",
+        "type": "technology"
+      }
+    ]
   }
 }
