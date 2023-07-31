@@ -11,28 +11,20 @@
       "title": "Web Developer",
       "description": "+20 years of web development working primarily with HTML, CSS, JavaScript, PHP and MySQL. Working freelance since the mid 2000s. Thanks to my open-source script. I have had the opportunity to work with clients from around the world. \n\nI am now looking for new opportunities in a company with vision for the future where I can use and expand both my technical and personal knowledge.\n\nIn my day to day I usually use PHP, MySQL, AJAX, CSS, SEO, JavaScript.\nI am currently learning React.",
       "avatar": {
-        "alt": "me-2022.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/19/734de3e3-e1e8-4196-a66a-e26ad3f0b186_me-2022.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/19/734de3e3-e1e8-4196-a66a-e26ad3f0b186_me-2022.png",
+        "alt": "me-2022.png"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJLSHbT8RZcg0RzzLKyZLcJWA)",
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Málaga",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Málaga"
       }
     },
     "relevantLinks": [
       {
-        "type": "github",
-        "URL": "https://github.com/cbolson"
-      },
-      {
         "type": "other",
         "URL": "https://www.cbolson.com"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/chrisbolson/"
       }
     ]
   },
@@ -42,8 +34,8 @@
         "organization": {
           "name": "Gabinohome SL",
           "image": {
-            "alt": "logo_g.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/19/f7852a01-ada7-4a62-abb7-651ea67a1e70_logo_g.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/19/f7852a01-ada7-4a62-abb7-651ea67a1e70_logo_g.png",
+            "alt": "logo_g.png"
           },
           "URL": "https://www.gabinohome.com"
         },
@@ -63,8 +55,8 @@
         "organization": {
           "name": "cbolson.com",
           "image": {
-            "alt": "logo-cbolson.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/19/87191320-4c49-44bb-8f17-74d81595ed56_logo-cbolson.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/19/87191320-4c49-44bb-8f17-74d81595ed56_logo-cbolson.png",
+            "alt": "logo-cbolson.png"
           },
           "URL": "https://www.cbolson.com"
         },
@@ -105,8 +97,8 @@
           "description": "The AjaxAvailabiltyCalendar is a calendar script complete with back-end administration that I created in 2009 and still maintain and work on as a hobby project.\n\nIt was developed using PHP, MySQL & JavaScript\nUses AJAX to ensure that maintaining the calendar through its\nbuilt-in admin panel is as simple as possible.\nDownloaded over 90,000 times since its release.\n\nI am currently working on a new version to convert it into a web component using ES6, PHP y CSS3. Eventually, my plan is to move the backend from PHP to JavaScript.\n",
           "URL": "https://www.ajaxavailabilitycalendar.com",
           "image": {
-            "alt": "logo-version-4.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/19/8b732863-55f8-4742-bcfc-aaf7a09cd252_logo-version-4.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/19/8b732863-55f8-4742-bcfc-aaf7a09cd252_logo-version-4.png",
+            "alt": "logo-version-4.png"
           }
         },
         "type": "openSource",
@@ -122,18 +114,18 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Sass",
+          "name": "CSS",
           "type": "technology"
         }
       },
@@ -151,13 +143,7 @@
       },
       {
         "skill": {
-          "name": "jQuery",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -169,14 +155,40 @@
       },
       {
         "skill": {
-          "name": "JavaScript",
+          "name": "PHP",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "CSS",
+          "name": "Sass",
           "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
         }
       }
     ]
@@ -185,8 +197,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/chrisbolson/"
+          "URL": "https://www.linkedin.com/in/chrisbolson/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/cbolson",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "chris@cbolson.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "609078942",
+          "countryCode": "+34"
         }
       ]
     },
@@ -226,20 +251,16 @@
         "Full-stack Developer"
       ]
     },
-    "status": "searchingActively"
+    "status": "notAvailable"
   },
-  "asgardPreferences": {
+  "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
         "name": "HTML",
-        "type": "technology"
-      },
-      {
-        "name": "PHP",
-        "type": "technology"
-      },
-      {
-        "name": "MySQL",
         "type": "technology"
       },
       {
@@ -247,8 +268,17 @@
         "type": "technology"
       },
       {
-        "name": "CSS",
+        "name": "MySQL",
         "type": "technology"
+      },
+      {
+        "name": "PHP",
+        "type": "technology"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Ajax Availabillty Calendar"
       }
     ]
   }
